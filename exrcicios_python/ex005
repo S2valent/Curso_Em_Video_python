@@ -1,0 +1,4 @@
+numero = int(input('Informe um número: '))
+antecessor = numero-1
+sucessor = numero+1
+print('Antecessor é {} e o sucessor é {}'.format(antecessor,sucessor))
