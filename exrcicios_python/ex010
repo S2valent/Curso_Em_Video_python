@@ -3,3 +3,6 @@ carteira = float(input('Quanto você tem na cartteira? '))
 dolar = 3.27
 pode_comprar = carteira // dolar
 print('Você pode comprar US$$ {} dolares'.format(pode_comprar))
+
+
+
